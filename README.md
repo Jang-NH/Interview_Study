@@ -1,6 +1,7 @@
 # Interview_Study
 ## 백엔드 기술 면접 예제
 
+### 네트워크
 <details>
 <summary>Rest API란?</summary>
 <div markdown="1">
@@ -14,3 +15,9 @@ REST API가 사용하는 Http Request Method로는 get, post, put, patch, delete
 
 </div>
 </details>
+
+### Database
+
+### JAVA
+
+### Spring
