@@ -1,7 +1,6 @@
 # Interview_Study
 ## 백엔드 기술 면접 예제
 참고 : https://github.com/ksundong/backend-interview-question/blob/master/README.md
-얼른 혜린언니 초대하기!!
 
 ### 네트워크
 <details>
